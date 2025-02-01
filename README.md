@@ -15,10 +15,8 @@ Developed an 100% Kotlin Android application using Jetpack Compose. The applicat
 -------
 * [Kotlin](https://kotlinlang.org/)
 * Architecture Design (Model-View-ViewModel)
-* [Navigation component](https://developer.android.com/guide/navigation/navigation-getting-started) Single-activity architecture
 * [Dependency Injection- Dagger](https://dagger.dev/)
 * [Google Material Design](https://material.io/design/)
-
 
 
 ## Built with
